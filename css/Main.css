@@ -1,0 +1,116 @@
+body {
+	background-color: #242f3e;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	padding-bottom: 1%;
+	font-family: Verdana;
+}
+h1, h2, h3, a {
+	font-size: 25px;
+	color: #72366B;
+}
+
+#googleMap {
+	height: 100%;
+    position: relative;
+}
+
+.header-theme {
+	font-size: 25px;
+}
+
+.content-theme {
+	width: 100%;
+	height: 100%;
+	font-size: 17px;
+	padding: 10px;
+	color: white;
+}
+
+#Cinema {
+	background-color: #242f3e;
+}
+
+#Reviews {
+	background-color: #242f3e;
+}
+
+.main-title {
+	height: 5%;
+	width: 100%;
+	background-color: #222;
+	text-align:center;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.Movie-tab {
+	padding:10px;
+	background-color: #2224;
+	-webkit-align-content: center;
+  	align-content: center;
+	border-radius: 3px;
+	margin: 20px;
+}
+
+.title {
+	text-align:center;
+	width:100;
+	padding:3px;
+	margin: 0px;
+	margin-top: 15px;
+}
+
+.info {
+	padding:3px;
+	margin: 0px;
+	margin-top: 5px;
+}
+
+.popularity {
+	float:right;
+	text-align:center;
+	padding:3px;
+	width:50%;
+	margin: 0px;
+	margin-top: 5px;
+}
+
+.vote-avg {
+	text-align:center;
+	padding:3px;
+	width:50%;
+	margin: 0px;
+	margin-top: 5px;
+}
+
+.release-date {
+	text-align:center;
+	padding:3px;
+	margin: 0px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.button1 {
+	-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+	text-align:center;
+	vertical-align:middle;
+	height: 5%;
+	width: 100%;
+	background-color: #222;
+	border-color: #222;
+	color: white;
+	margin:0px;
+	font-size: 200%;
+	position: absolute;
+  	top: 95%;
+}
+
+
