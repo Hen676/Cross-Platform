@@ -1,4 +1,4 @@
-# Cross_Platform
+# Cross-Platform
 
 Cross Platform App - Cinema Finder
 
